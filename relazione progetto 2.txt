@@ -1,0 +1,1 @@
+ho notato che una volta collegate le macchine, facendo dei ping le macchine si riconoscono e vanno in automaticho senza mandare pacchetti per tutta la rete,inoltre quando i pacchetti ritornano indietro al mittente automaticamente si cambia anche IP
